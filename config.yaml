@@ -1,0 +1,25 @@
+---
+# [EN-US]
+# Time intervals configuration
+#   Define here time between each action
+#
+# [PT-BR]
+# Configurações de intervalo de tempo
+#   Configure aqui em quanto tempo cada ação é executada
+  time_intervals_refuel: 5
+#  [EN-US]
+#  Time for verification of "Refuel" button is available
+#     Default value (in minutes): 5
+#  [PT-BR]
+#  Tempo para verificar se o botão "Refuel" está disponível
+#     Tempo padrão (em minutos): 5
+
+
+  time_intervals_claim: 5
+    enable: False
+  #  [EN-US]
+  #  Time for verification of "Claim" button is available in cars
+  #     Default value (in minutes): 5
+  #  [PT-BR]
+  #  Tempo para verificar se o botão "Claim" está disponível nos carros
+  #     Tempo padrão (em minutos): 5
